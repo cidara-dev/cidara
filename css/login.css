@@ -1,0 +1,38 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.card-body {
+    text-align: center;
+}
+.col-md-3 {
+    position: relative;
+}
+
+.col-md-8 {
+    padding-top: 5vw;
+}
+.col-md-4 {
+    color: #080e5e;
+    text-align: center;
+    padding-top: 10vw;
+}
+.col-md-4 h1 {
+    font-size: 100px;
+}
+
+.carousel-inner img {
+    top: 10vw;
+    width: 780px;
+    height: 600px;
+}
+.carousel {
+    border-radius: 5px;
+}
+.carousel button {
+    display: none;
+}
+.carousel-item {
+    left: 1vw;
+}
